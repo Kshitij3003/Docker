@@ -1,0 +1,8 @@
+INSERT INTO priarworld (firstname,rollnumber) VALUES ('pinky',1);
+INSERT INTO priarworld (firstname,rollnumber) VALUES ('rani',2);
+INSERT INTO priarworld (firstname,rollnumber) VALUES ('banti',3);
+INSERT INTO priarworld (firstname,rollnumber) VALUES ('harsh',4);
+INSERT INTO priarworld (firstname,rollnumber) VALUES ('paras',5);
+INSERT INTO priarworld (firstname,rollnumber) VALUES ('pari',6);
+
+
